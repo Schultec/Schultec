@@ -1,4 +1,6 @@
 ### Hi there 👋
+---------------
+My name is collin. I am currently a student at Eastern Washington University and working on a software engineering internship with intellect. In my free time, I have many hobbies, including 3D modeling and printing. I also enjoy playing and developing board games.
 
 <!--
 **Schultec/Schultec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
