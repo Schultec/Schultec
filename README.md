@@ -9,7 +9,7 @@ My name is collin. I am currently a student at Eastern Washington University and
 ## answers to good questions
 - you can reach me at my email: schultec99@gmail.com.
 - ask me about game mechanics.
-- im looking to collaborate on anything if i extra time to.
+- im looking to collaborate on anything if i have the extra time to.
 
 <!--
 **Schultec/Schultec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
