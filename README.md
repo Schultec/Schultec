@@ -7,7 +7,7 @@ My name is collin. I am currently a student at Eastern Washington University and
 - pronouns he/him/his.
 
 ## answers to good questions
-- you can reach me at my email:schultec99@gmail.com.
+- you can reach me at my email: schultec99@gmail.com.
 - ask me about game mechanics.
 - im looking to collaborate on anything if i extra time to.
 
