@@ -4,11 +4,11 @@ My name is collin. I am currently a student at Eastern Washington University and
 ## Some things about me
 - i am currently working on a text based rpg built in a discord bot.
 - i am currently learning c#.
-- pronouns he/him/his.
+- my pronouns are he/him/his.
 
 ## answers to good questions
 - you can reach me at my email: schultec99@gmail.com.
-- ask me about game mechanics.
+- feel free to ask me about game mechanics.
 - im looking to collaborate on anything if i have the extra time to.
 
 <!--
