@@ -6,7 +6,7 @@ My name is collin. I am currently a student at Eastern Washington University and
 - i am currently learning c#.
 - my pronouns are he/him/his.
 
-## answers to good questions
+## answers and good questions to ask me
 - you can reach me at my email: schultec99@gmail.com.
 - feel free to ask me about game mechanics.
 - im looking to collaborate on anything if i have the extra time to.
