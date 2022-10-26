@@ -2,7 +2,7 @@
 ---------------
 My name is collin. I am currently a student at Eastern Washington University and working on a software engineering internship with intellect. In my free time, I have many hobbies, including 3D modeling and printing. I also enjoy playing and developing board games.
 ## Some things about me
-- i am currently working on a text based rpg built in a discord bot.
+- i am currently working on a text based rpg and a discord bot.
 - i am currently learning c#.
 - my pronouns are he/him/his.
 
