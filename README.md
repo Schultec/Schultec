@@ -1,6 +1,13 @@
 ### Hi there 👋
 ---------------
 My name is collin. I am currently a student at Eastern Washington University and working on a software engineering internship with intellect. In my free time, I have many hobbies, including 3D modeling and printing. I also enjoy playing and developing board games.
+## things aboout books
+### currently reading
+- career related: Soft Skills: The Software Developer's Life Manual by: John Sonmez
+- for enjoyment: S. or the ship of theseus by: Doug Dorst and J.J. Abrams
+### technical book recomendations
+- Code: The Hidden Language of Computer Hardware and Software by: Charles Petzold
+
 ## Some things about me
 - i am currently working on a lot of things
 - i am currently learning c#.
