@@ -4,7 +4,7 @@ My name is collin. I am currently a student at Western Governors University and 
 ## things about books
 ### currently reading
 - career related: Soft Skills: The Software Developer's Life Manual by: John Sonmez
-- for enjoyment: S. or the ship of theseus by: Doug Dorst and J.J. Abrams
+- for enjoyment: the way of kings by: Brandon Sanderson
 ### technical book recomendations
 - Code: The Hidden Language of Computer Hardware and Software by: Charles Petzold
 
